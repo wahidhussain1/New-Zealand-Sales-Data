@@ -11,3 +11,7 @@ Following the creation of all calculated columns and measures, I created a dashb
 I produced a number of reports that included financial analysis that made it clear which months and years, when compared to others, produce the highest levels of profit, sales, and cumulative revenue. I also produced profiles for each region, nation, item, sales channel, order priority, and date-time analysis.
 
 In the conclusion, I wrote the insights where I provided the anticipated explanation for why sales decreased in 2012 and 2015 and suggested areas where sales might grow.
+
+There is my data's link which is published.
+
+https://bit.ly/3JUlbzl
